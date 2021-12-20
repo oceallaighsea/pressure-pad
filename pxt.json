@@ -1,5 +1,5 @@
 {
-    "name": "Pressure Pad",
+    "name": "analog-serial-switches",
     "description": "",
     "dependencies": {
         "core": "*",
